@@ -35,11 +35,11 @@
 # To use it as an integer, you need to convert (cast) it with int().
 
 # ::: Example
-age = input("Enter your age: ")
-print(type(age))  # this will be a string <class 'str'>
+# age = input("Enter your age: ")
+# print(type(age))  # this will be a string <class 'str'>
 
-age = int(input("Enter your age: "))
-print(type(age)) # this will be an integer <class 'int'>
+# age = int(input("Enter your age: "))
+# print(type(age)) # this will be an integer <class 'int'>
 
 
 
